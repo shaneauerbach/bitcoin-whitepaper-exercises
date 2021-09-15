@@ -1,4 +1,4 @@
-# Bitcoin Whitepaper Exercises
+# Bitcoin Whitepaper Exercises - test change
 
 In these exercises, you will learn about blockchains from the perspective of the [original Bitcoin Whitepaper](https://bitcoin.org/en/bitcoin-paper).
 
